@@ -5,7 +5,7 @@ Application Services Architecture Decision Records
 
 ## Website
 
-https://architecture.appservices.tech
+http://pwright.github.io/architecture/
 
 
 ## Running Locally
