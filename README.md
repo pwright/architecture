@@ -1,7 +1,7 @@
 # app-services-architecture
 
 
-Application Services Architecture Decision Records
+Skupper Architecture Decision Records
 
 ## Website
 

@@ -23,9 +23,9 @@ title: Skupper Architecture
 email: tbd@redhat.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains resources about the architecture and processes for 
-  Red Hat Application Services. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pwright.github.io/architecture/" # the base hostname & protocol for your site, e.g. http://example.com
+  Skupper. 
+baseurl: "architecture/" # the subpath of your site, e.g. /blog
+url: "https://pwright.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
